@@ -1,0 +1,9 @@
+
+body h1, h2, h3, h4, h5, h6, .We-wide{
+    font-family: "Montserrat", sans-serif;
+    max-width:120px;
+}
+.w3-sidebar a {
+    font-family:"roboto," sans-serif;
+
+}
